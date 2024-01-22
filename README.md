@@ -5,6 +5,5 @@ Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 * 🤩 Interested in the lower-level workings of a computer.
 * 🐤 I mostly works with: C++, Python, Javascript. I know a little Java & Haskell. I'm learning and practicing Rust!
 * 😨 Really lack practical experiences...
-* 🥲 Think Data Structures & Algorithms are kinda hard...lol.
 * 😘 Loveeeee Math.
 * 🌎 Concerned about Climate change.
