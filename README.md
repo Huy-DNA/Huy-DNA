@@ -7,3 +7,8 @@ Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 * 😨 Really lack practical experiences...
 * 😘 Loveeeee Math.
 * 🌎 Concerned about Climate change.
+
+## The most important things I've learnt
+> When there are multiple solutions requiring varying engineering efforts, stop thinking about the invisible tradeoffs from the customer's view for a while. Think from the perspective of the customers!
+
+> Don't try to structure systems too complicated from the start. Design simpler systems if it's suffice to do so! 
