@@ -1,4 +1,6 @@
 # Hi🖐️I'm HuyDNA 
+<img src="https://img.shields.io/github/stars/Huy-DNA?label=Stars" alt="stars">
+
 Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
 * 😄 Eager to learn anything about CS, either purely theoretical topics or practical ones.
@@ -12,3 +14,7 @@ Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 > When there are multiple solutions requiring varying engineering efforts, stop thinking about the invisible tradeoffs from the customer's view for a while. Think from the perspective of the customers!
 
 > Don't try to structure systems too complicated from the start. Design simpler systems if it suffices to do so! 
+
+## Some funny stats
+<img src="https://myreadme.vercel.app/api/embed/Huy-DNA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-profile-trophy.vercel.app/?username=Huy-DNA&theme=juicyfresh&no-bg=true" />
