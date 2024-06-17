@@ -17,4 +17,3 @@ Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
 ## Some funny stats
 <img src="https://myreadme.vercel.app/api/embed/Huy-DNA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://github-profile-trophy.vercel.app/?username=Huy-DNA&theme=juicyfresh&no-bg=true" />
