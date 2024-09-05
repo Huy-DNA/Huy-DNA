@@ -16,4 +16,4 @@ Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 > Don't try to structure systems too complicated from the start. Design simpler systems if it suffices to do so! 
 
 ## Some funny stats
-<img src="https://myreadme.vercel.app/api/embed/Huy-DNA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Huy-DNA GitHub's stats](https://github-readme-stats.vercel.app/api?username=Huy-DNA&show_icons=true&theme=radical)
