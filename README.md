@@ -1,7 +1,7 @@
 # Hi🖐️I'm HuyDNA 
 <img src="https://img.shields.io/github/stars/Huy-DNA?label=Stars" alt="stars">
 
-Third-year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
+Final year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
 * 😄 Eager to learn anything about CS, either purely theoretical topics or practical ones.
 * 🤩 Interested in the lower-level workings of a computer.
