@@ -5,9 +5,10 @@ Final year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
 * 😄 Eager to learn anything about CS, either purely theoretical topics or practical ones.
 * 🤩 Interested in the lower-level workings of a computer.
-* 🐤 I mostly work with: C++, Rust, Typescript. I understand Python deeply but it's been a long time I coded in this language so may be I'm getting rusty. I know a little Java, Haskell & Go.
-* 😨 Really lack practical experiences...
-* 😘 Loveeeee Math.
+* 🐤 I mostly work with: C++, Rust, Typescript, Ruby.
+* 🐍 I understand Python deeply but it's been a long time I coded in this language so may be I'm getting rusty.
+* 😖 I know a little Java, Haskell & Go.
+* 💠 Hobby: Automation & CI scripting with Typescript & Ruby.
 * 🌎 Concerned about Climate change.
 
 ## The most important things I've learnt
