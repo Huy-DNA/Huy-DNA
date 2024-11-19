@@ -1,5 +1,3 @@
-# Hi🖐️I'm HuyDNA 
-
 Final year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
 * 😄 Eager to learn anything about CS, either purely theoretical topics or practical ones.
