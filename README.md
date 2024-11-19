@@ -1,5 +1,4 @@
 # Hi🖐️I'm HuyDNA 
-<img src="https://img.shields.io/github/stars/Huy-DNA?label=Stars" alt="stars">
 
 Final year student 🤓 @ Ho Chi Minh City of Technology (HCMUT), CSE department
 
